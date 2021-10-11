@@ -1,14 +1,12 @@
-# francevarotz98
-About me
-
 # Hi, I am Francesco Varotto👋
 
 [![Francesco's LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francesco-varotto-371b171b2/)
+📫 How to reach me: fravar98@gmail.com
 
 ## About me
 Hi! I am Francesco Varotto, I received my BA degree in Informatic engineering in 2020 @Unipd and I am attending the master degree of Cybersecurity @UniPd. 
  
- 📫 How to reach me: fravar98@gmail.com
+ 
 
 <!--
 ✅
