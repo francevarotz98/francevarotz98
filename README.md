@@ -1,7 +1,7 @@
 # Hi, I am Francesco Varotto👋
 
 ## About me
-Hi! I am Francesco Varotto, I received my BA degree in Informatic engineering in 2020 @Unipd and I am attending the master degree of Cybersecurity @UniPd. 
+Hi! I am Francesco Varotto, I received my BA degree in Computer engineering in 2020 @Unipd and I am attending the master degree of Cybersecurity @UniPd. 
  
 ## 📫 How to reach me
 
